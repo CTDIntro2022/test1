@@ -1,5 +1,7 @@
 first line of foo1.txt!
-THis is the Second line added
+Second line added and modified and modified again
+third line added
 third line added and modified in version 2
 many more lines
 were added in version 2
+added bottom line
