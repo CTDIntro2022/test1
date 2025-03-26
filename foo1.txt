@@ -1,3 +1,4 @@
 first line of foo1.txt!
-Second line added and modified
+Second line added and modified and modified again
 third line added
+added bottom line
